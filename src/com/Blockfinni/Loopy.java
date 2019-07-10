@@ -1,4 +1,10 @@
 package com.Blockfinni;
 
-public class Loopy {
-}
+class Loopy {
+  private int x1;
+  private int x2;
+  
+  Loopy(){
+  }
+  
+}// end class
