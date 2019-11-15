@@ -5,7 +5,7 @@ class Loopy {
   }
 
    public static void main(String[] args) {
-    System.out.println("test testing wakatime ");
+    System.out.println("Successful Wakatime connection");
   }
   
 }// end class
