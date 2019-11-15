@@ -6,5 +6,9 @@ class Loopy {
   
   Loopy(){
   }
+
+   public static void main(String[] args) {
+    System.out.println("test");
+  }
   
 }// end class
