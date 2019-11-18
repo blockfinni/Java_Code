@@ -7,7 +7,7 @@ class Loopy {
    public static void main(String[] args) {
       System.out.println("Successful Wakatime connection");
       System.out.println("Wakatime Dashboard update");
-      String v = "Finally I can start coding endlessly";
+      //String v = "Finally I can start coding endlessly";
 
       String y = "1";
       String a = "8";
